@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_price_kes
+P001,Rice 2kg,Grocery,320
+P002,Cooking Oil 1L,Grocery,280
+P003,Sugar 2kg,Grocery,260
+P004,Maize Flour 2kg,Grocery,180
+P005,Milk 1L,Dairy,75
+P006,Yoghurt 500ml,Dairy,120
+P007,Bread,Bakery,65
+P008,Tea 250g,Beverages,210
+P009,Coffee 100g,Beverages,340
+P010,Soap Bar,Household,95
+P011,Detergent 1kg,Household,230
+P012,Toothpaste,Personal Care,150
+P013,Shampoo 400ml,Personal Care,390
+P014,Cooking Gas Refill,Household,2200
+P015,Soda 2L,Beverages,160
+P016,Bottled Water 1L,Beverages,60
+P017,Eggs Tray,Dairy,450
+P018,Chicken 1kg,Meat,650
+P019,Beef 1kg,Meat,780
+P020,Tomatoes 1kg,Fresh Produce,110

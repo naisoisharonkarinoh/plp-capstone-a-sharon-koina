@@ -1,0 +1,1001 @@
+customer_id,customer_segment,county
+C0001,Regular,Machakos
+C0002,New,Kisumu
+C0003,Loyal,Machakos
+C0004,Loyal,Nakuru
+C0005,Regular,Kisumu
+C0006,Regular,Nairobi
+C0007,Loyal,Uasin Gishu
+C0008,Loyal,Uasin Gishu
+C0009,Regular,Machakos
+C0010,New,Kiambu
+C0011,Regular,Nairobi
+C0012,Regular,Nakuru
+C0013,Regular,Kiambu
+C0014,Regular,Nakuru
+C0015,Regular,Nakuru
+C0016,Loyal,Kiambu
+C0017,Regular,Uasin Gishu
+C0018,Regular,Uasin Gishu
+C0019,Regular,Nakuru
+C0020,Regular,Mombasa
+C0021,Regular,Nakuru
+C0022,New,Machakos
+C0023,Regular,Uasin Gishu
+C0024,New,Uasin Gishu
+C0025,Loyal,Nairobi
+C0026,Regular,Machakos
+C0027,Loyal,Mombasa
+C0028,Loyal,Machakos
+C0029,Loyal,Nakuru
+C0030,New,Machakos
+C0031,New,Machakos
+C0032,New,Kiambu
+C0033,New,Machakos
+C0034,Regular,Uasin Gishu
+C0035,Loyal,Kiambu
+C0036,New,Mombasa
+C0037,New,Nairobi
+C0038,Regular,Nakuru
+C0039,Regular,Kiambu
+C0040,Regular,Kiambu
+C0041,Regular,Nakuru
+C0042,Regular,Nakuru
+C0043,Regular,Uasin Gishu
+C0044,Regular,Machakos
+C0045,Regular,Kiambu
+C0046,Regular,Nairobi
+C0047,Loyal,Uasin Gishu
+C0048,Regular,Kisumu
+C0049,Regular,Kiambu
+C0050,Regular,Nakuru
+C0051,Regular,Machakos
+C0052,Regular,Nakuru
+C0053,New,Uasin Gishu
+C0054,Loyal,Nairobi
+C0055,Regular,Machakos
+C0056,New,Mombasa
+C0057,Regular,Kisumu
+C0058,Regular,Kiambu
+C0059,Regular,Machakos
+C0060,Regular,Nakuru
+C0061,New,Nakuru
+C0062,New,Nairobi
+C0063,New,Machakos
+C0064,Regular,Nairobi
+C0065,New,Nairobi
+C0066,Regular,Nakuru
+C0067,Regular,Nairobi
+C0068,Regular,Mombasa
+C0069,New,Uasin Gishu
+C0070,Loyal,Uasin Gishu
+C0071,Regular,Kisumu
+C0072,New,Kiambu
+C0073,New,Uasin Gishu
+C0074,Loyal,Mombasa
+C0075,Regular,Uasin Gishu
+C0076,New,Uasin Gishu
+C0077,New,Kiambu
+C0078,Loyal,Mombasa
+C0079,Regular,Mombasa
+C0080,Loyal,Kisumu
+C0081,Regular,Kisumu
+C0082,Loyal,Machakos
+C0083,Regular,Kiambu
+C0084,Regular,Nakuru
+C0085,Regular,Nakuru
+C0086,Regular,Machakos
+C0087,Regular,Nakuru
+C0088,Regular,Mombasa
+C0089,Regular,Nairobi
+C0090,Regular,Kisumu
+C0091,New,Uasin Gishu
+C0092,Loyal,Nakuru
+C0093,New,Kisumu
+C0094,Regular,Nakuru
+C0095,Regular,Machakos
+C0096,Loyal,Machakos
+C0097,Regular,Mombasa
+C0098,Regular,Nairobi
+C0099,Loyal,Mombasa
+C0100,Loyal,Kiambu
+C0101,Regular,Nakuru
+C0102,New,Machakos
+C0103,Regular,Uasin Gishu
+C0104,New,Nakuru
+C0105,Regular,Mombasa
+C0106,Regular,Kisumu
+C0107,New,Mombasa
+C0108,Regular,Nakuru
+C0109,New,Mombasa
+C0110,Regular,Kisumu
+C0111,Loyal,Nairobi
+C0112,Loyal,Kiambu
+C0113,Regular,Machakos
+C0114,New,Nakuru
+C0115,Regular,Nakuru
+C0116,Regular,Machakos
+C0117,Regular,Nakuru
+C0118,Loyal,Uasin Gishu
+C0119,Loyal,Kisumu
+C0120,Loyal,Nakuru
+C0121,Loyal,Nakuru
+C0122,Loyal,Uasin Gishu
+C0123,Regular,Uasin Gishu
+C0124,Loyal,Nakuru
+C0125,New,Nairobi
+C0126,Regular,Machakos
+C0127,New,Machakos
+C0128,Regular,Mombasa
+C0129,Regular,Kisumu
+C0130,Regular,Machakos
+C0131,Regular,Kisumu
+C0132,Regular,Kiambu
+C0133,Loyal,Kiambu
+C0134,New,Machakos
+C0135,Regular,Nairobi
+C0136,Regular,Nakuru
+C0137,Regular,Nakuru
+C0138,Regular,Kiambu
+C0139,Loyal,Mombasa
+C0140,Regular,Kisumu
+C0141,New,Mombasa
+C0142,New,Kiambu
+C0143,New,Machakos
+C0144,Loyal,Nairobi
+C0145,Regular,Mombasa
+C0146,Loyal,Kisumu
+C0147,New,Machakos
+C0148,New,Nakuru
+C0149,New,Mombasa
+C0150,Loyal,Kisumu
+C0151,Loyal,Uasin Gishu
+C0152,Regular,Kisumu
+C0153,Loyal,Nairobi
+C0154,New,Kiambu
+C0155,Regular,Kisumu
+C0156,Loyal,Mombasa
+C0157,Regular,Kiambu
+C0158,New,Kiambu
+C0159,Regular,Mombasa
+C0160,Regular,Nairobi
+C0161,Loyal,Nairobi
+C0162,Regular,Kiambu
+C0163,Regular,Uasin Gishu
+C0164,Regular,Kiambu
+C0165,Regular,Uasin Gishu
+C0166,Loyal,Kisumu
+C0167,Loyal,Uasin Gishu
+C0168,Regular,Kiambu
+C0169,New,Kisumu
+C0170,Regular,Machakos
+C0171,New,Machakos
+C0172,Regular,Kiambu
+C0173,Regular,Machakos
+C0174,Regular,Kisumu
+C0175,New,Nairobi
+C0176,Regular,Nakuru
+C0177,Regular,Kiambu
+C0178,Loyal,Kiambu
+C0179,New,Kisumu
+C0180,Regular,Kisumu
+C0181,Loyal,Nakuru
+C0182,Loyal,Kiambu
+C0183,Regular,Nairobi
+C0184,New,Kisumu
+C0185,Regular,Mombasa
+C0186,New,Kiambu
+C0187,Regular,Nakuru
+C0188,New,Nairobi
+C0189,Regular,Mombasa
+C0190,Regular,Nairobi
+C0191,Loyal,Nakuru
+C0192,Regular,Machakos
+C0193,Loyal,Nakuru
+C0194,Loyal,Machakos
+C0195,Loyal,Kiambu
+C0196,Regular,Machakos
+C0197,Loyal,Kisumu
+C0198,Regular,Machakos
+C0199,Regular,Mombasa
+C0200,Loyal,Nakuru
+C0201,New,Uasin Gishu
+C0202,Regular,Kisumu
+C0203,Regular,Mombasa
+C0204,Loyal,Nairobi
+C0205,New,Nairobi
+C0206,Regular,Nakuru
+C0207,Loyal,Machakos
+C0208,Regular,Mombasa
+C0209,Regular,Nakuru
+C0210,New,Machakos
+C0211,Loyal,Kiambu
+C0212,Regular,Nairobi
+C0213,Regular,Nakuru
+C0214,Regular,Mombasa
+C0215,Loyal,Mombasa
+C0216,Regular,Mombasa
+C0217,Regular,Uasin Gishu
+C0218,Loyal,Mombasa
+C0219,Regular,Mombasa
+C0220,New,Mombasa
+C0221,Regular,Kisumu
+C0222,Loyal,Uasin Gishu
+C0223,Regular,Kisumu
+C0224,Regular,Kisumu
+C0225,Regular,Nakuru
+C0226,New,Uasin Gishu
+C0227,New,Nairobi
+C0228,Regular,Machakos
+C0229,Regular,Machakos
+C0230,Loyal,Uasin Gishu
+C0231,Regular,Uasin Gishu
+C0232,Regular,Uasin Gishu
+C0233,New,Nakuru
+C0234,Regular,Kisumu
+C0235,Regular,Kisumu
+C0236,Regular,Mombasa
+C0237,Regular,Kiambu
+C0238,Regular,Kisumu
+C0239,New,Mombasa
+C0240,New,Machakos
+C0241,Regular,Nakuru
+C0242,Loyal,Uasin Gishu
+C0243,Regular,Mombasa
+C0244,New,Mombasa
+C0245,Regular,Kiambu
+C0246,New,Nakuru
+C0247,Regular,Mombasa
+C0248,Regular,Kiambu
+C0249,Regular,Kisumu
+C0250,Regular,Uasin Gishu
+C0251,Regular,Kisumu
+C0252,New,Nakuru
+C0253,Loyal,Kiambu
+C0254,Regular,Machakos
+C0255,Loyal,Mombasa
+C0256,New,Uasin Gishu
+C0257,Loyal,Machakos
+C0258,New,Uasin Gishu
+C0259,New,Mombasa
+C0260,Regular,Mombasa
+C0261,New,Mombasa
+C0262,Loyal,Nairobi
+C0263,Regular,Kiambu
+C0264,Regular,Machakos
+C0265,Regular,Nakuru
+C0266,Loyal,Uasin Gishu
+C0267,Regular,Kiambu
+C0268,New,Kisumu
+C0269,Loyal,Nakuru
+C0270,Loyal,Uasin Gishu
+C0271,Regular,Kisumu
+C0272,New,Nairobi
+C0273,Loyal,Nakuru
+C0274,Regular,Kiambu
+C0275,New,Nairobi
+C0276,Regular,Mombasa
+C0277,New,Mombasa
+C0278,Regular,Kiambu
+C0279,Regular,Nakuru
+C0280,Regular,Nakuru
+C0281,Regular,Uasin Gishu
+C0282,Regular,Mombasa
+C0283,New,Uasin Gishu
+C0284,Regular,Nairobi
+C0285,Regular,Nairobi
+C0286,New,Kiambu
+C0287,New,Uasin Gishu
+C0288,Regular,Mombasa
+C0289,Loyal,Nakuru
+C0290,Regular,Nairobi
+C0291,Loyal,Uasin Gishu
+C0292,Regular,Kiambu
+C0293,New,Mombasa
+C0294,Loyal,Kisumu
+C0295,Loyal,Mombasa
+C0296,New,Kisumu
+C0297,New,Mombasa
+C0298,Regular,Mombasa
+C0299,New,Nakuru
+C0300,New,Machakos
+C0301,Loyal,Kiambu
+C0302,Regular,Kisumu
+C0303,Regular,Machakos
+C0304,New,Mombasa
+C0305,Regular,Machakos
+C0306,Regular,Kisumu
+C0307,Regular,Nakuru
+C0308,New,Mombasa
+C0309,Regular,Kiambu
+C0310,Regular,Kisumu
+C0311,Regular,Machakos
+C0312,Loyal,Nairobi
+C0313,New,Nakuru
+C0314,Regular,Mombasa
+C0315,Regular,Machakos
+C0316,New,Kisumu
+C0317,Regular,Uasin Gishu
+C0318,New,Machakos
+C0319,Regular,Nakuru
+C0320,Loyal,Nairobi
+C0321,Regular,Mombasa
+C0322,New,Mombasa
+C0323,Regular,Machakos
+C0324,Loyal,Machakos
+C0325,Loyal,Nakuru
+C0326,New,Machakos
+C0327,Regular,Mombasa
+C0328,Regular,Uasin Gishu
+C0329,Loyal,Kisumu
+C0330,New,Mombasa
+C0331,Regular,Mombasa
+C0332,Regular,Kisumu
+C0333,Regular,Kisumu
+C0334,Loyal,Mombasa
+C0335,New,Kisumu
+C0336,New,Nairobi
+C0337,New,Machakos
+C0338,Regular,Kisumu
+C0339,Regular,Nairobi
+C0340,Regular,Uasin Gishu
+C0341,New,Machakos
+C0342,Regular,Kisumu
+C0343,Regular,Kiambu
+C0344,Regular,Uasin Gishu
+C0345,Regular,Kiambu
+C0346,New,Kisumu
+C0347,Regular,Nairobi
+C0348,Regular,Kisumu
+C0349,New,Machakos
+C0350,Regular,Kiambu
+C0351,Regular,Kiambu
+C0352,Regular,Machakos
+C0353,Loyal,Kisumu
+C0354,Regular,Kisumu
+C0355,New,Machakos
+C0356,Loyal,Uasin Gishu
+C0357,New,Kisumu
+C0358,Regular,Mombasa
+C0359,New,Machakos
+C0360,Regular,Nairobi
+C0361,Regular,Nairobi
+C0362,Regular,Kiambu
+C0363,Regular,Nairobi
+C0364,Regular,Mombasa
+C0365,Regular,Machakos
+C0366,Regular,Kisumu
+C0367,Regular,Kiambu
+C0368,New,Nakuru
+C0369,Loyal,Nairobi
+C0370,Regular,Mombasa
+C0371,New,Kiambu
+C0372,Regular,Nairobi
+C0373,Regular,Uasin Gishu
+C0374,Regular,Kisumu
+C0375,Regular,Kisumu
+C0376,Regular,Machakos
+C0377,Regular,Uasin Gishu
+C0378,Regular,Uasin Gishu
+C0379,Regular,Kisumu
+C0380,Regular,Kisumu
+C0381,Regular,Uasin Gishu
+C0382,Regular,Nairobi
+C0383,Regular,Mombasa
+C0384,Regular,Uasin Gishu
+C0385,Regular,Uasin Gishu
+C0386,Regular,Nairobi
+C0387,Regular,Kiambu
+C0388,Loyal,Nakuru
+C0389,Regular,Mombasa
+C0390,Regular,Kiambu
+C0391,Regular,Machakos
+C0392,Loyal,Kisumu
+C0393,New,Mombasa
+C0394,New,Kisumu
+C0395,Loyal,Uasin Gishu
+C0396,Regular,Nairobi
+C0397,Loyal,Nakuru
+C0398,Regular,Nairobi
+C0399,New,Nairobi
+C0400,Regular,Nakuru
+C0401,Regular,Kiambu
+C0402,Loyal,Machakos
+C0403,Regular,Nairobi
+C0404,Loyal,Mombasa
+C0405,Regular,Kisumu
+C0406,New,Uasin Gishu
+C0407,Loyal,Machakos
+C0408,Regular,Uasin Gishu
+C0409,Loyal,Nakuru
+C0410,New,Nairobi
+C0411,New,Nairobi
+C0412,Regular,Mombasa
+C0413,Regular,Uasin Gishu
+C0414,New,Kisumu
+C0415,Regular,Mombasa
+C0416,Regular,Uasin Gishu
+C0417,Regular,Kiambu
+C0418,Loyal,Nakuru
+C0419,Regular,Machakos
+C0420,New,Kiambu
+C0421,Loyal,Kiambu
+C0422,Regular,Machakos
+C0423,Regular,Mombasa
+C0424,New,Kiambu
+C0425,Regular,Machakos
+C0426,New,Machakos
+C0427,New,Uasin Gishu
+C0428,New,Kiambu
+C0429,Regular,Machakos
+C0430,New,Kiambu
+C0431,New,Machakos
+C0432,Regular,Kiambu
+C0433,New,Kisumu
+C0434,Loyal,Kiambu
+C0435,New,Kisumu
+C0436,Regular,Kiambu
+C0437,Regular,Kiambu
+C0438,Regular,Machakos
+C0439,Regular,Uasin Gishu
+C0440,Regular,Nakuru
+C0441,Loyal,Mombasa
+C0442,Regular,Uasin Gishu
+C0443,Loyal,Nakuru
+C0444,Regular,Nakuru
+C0445,Regular,Uasin Gishu
+C0446,Regular,Kiambu
+C0447,Regular,Mombasa
+C0448,New,Nakuru
+C0449,Loyal,Kiambu
+C0450,Loyal,Kiambu
+C0451,Regular,Kiambu
+C0452,New,Kiambu
+C0453,Regular,Kiambu
+C0454,Loyal,Machakos
+C0455,Regular,Uasin Gishu
+C0456,Regular,Mombasa
+C0457,Regular,Nakuru
+C0458,Regular,Uasin Gishu
+C0459,Regular,Nairobi
+C0460,Loyal,Kiambu
+C0461,New,Nakuru
+C0462,Loyal,Machakos
+C0463,Regular,Mombasa
+C0464,New,Machakos
+C0465,Regular,Nakuru
+C0466,Regular,Uasin Gishu
+C0467,Regular,Uasin Gishu
+C0468,Regular,Uasin Gishu
+C0469,New,Machakos
+C0470,Regular,Mombasa
+C0471,Regular,Kiambu
+C0472,New,Machakos
+C0473,Regular,Mombasa
+C0474,Loyal,Mombasa
+C0475,Regular,Nakuru
+C0476,Loyal,Kiambu
+C0477,New,Machakos
+C0478,New,Kiambu
+C0479,New,Kiambu
+C0480,Loyal,Nakuru
+C0481,New,Uasin Gishu
+C0482,Regular,Mombasa
+C0483,Regular,Nakuru
+C0484,New,Mombasa
+C0485,Regular,Nairobi
+C0486,Regular,Kiambu
+C0487,Regular,Kiambu
+C0488,Regular,Nakuru
+C0489,Regular,Nairobi
+C0490,New,Nairobi
+C0491,New,Nairobi
+C0492,Loyal,Kiambu
+C0493,Regular,Mombasa
+C0494,Regular,Mombasa
+C0495,New,Machakos
+C0496,Regular,Machakos
+C0497,New,Kiambu
+C0498,Regular,Kisumu
+C0499,Loyal,Uasin Gishu
+C0500,Regular,Mombasa
+C0501,Loyal,Machakos
+C0502,New,Nairobi
+C0503,Regular,Kiambu
+C0504,New,Nakuru
+C0505,Regular,Kiambu
+C0506,New,Nakuru
+C0507,New,Mombasa
+C0508,Regular,Kiambu
+C0509,Regular,Uasin Gishu
+C0510,New,Nakuru
+C0511,Regular,Kisumu
+C0512,Loyal,Kisumu
+C0513,New,Nakuru
+C0514,New,Mombasa
+C0515,Regular,Mombasa
+C0516,New,Mombasa
+C0517,Loyal,Nairobi
+C0518,Regular,Machakos
+C0519,Regular,Mombasa
+C0520,Regular,Mombasa
+C0521,Regular,Mombasa
+C0522,New,Machakos
+C0523,Regular,Nakuru
+C0524,New,Kisumu
+C0525,Regular,Kisumu
+C0526,Regular,Nairobi
+C0527,Regular,Kisumu
+C0528,Loyal,Mombasa
+C0529,New,Kiambu
+C0530,Regular,Nairobi
+C0531,New,Kisumu
+C0532,Regular,Kiambu
+C0533,Regular,Kiambu
+C0534,Regular,Nakuru
+C0535,Loyal,Mombasa
+C0536,New,Kisumu
+C0537,New,Mombasa
+C0538,Regular,Uasin Gishu
+C0539,Regular,Kisumu
+C0540,New,Uasin Gishu
+C0541,Regular,Uasin Gishu
+C0542,Loyal,Machakos
+C0543,New,Kisumu
+C0544,Regular,Machakos
+C0545,New,Kisumu
+C0546,Loyal,Uasin Gishu
+C0547,Regular,Uasin Gishu
+C0548,New,Kiambu
+C0549,Loyal,Nakuru
+C0550,Regular,Kiambu
+C0551,Loyal,Kisumu
+C0552,Regular,Nakuru
+C0553,New,Nakuru
+C0554,New,Uasin Gishu
+C0555,New,Uasin Gishu
+C0556,Regular,Nairobi
+C0557,New,Kiambu
+C0558,Regular,Kiambu
+C0559,Regular,Nairobi
+C0560,Regular,Machakos
+C0561,New,Uasin Gishu
+C0562,Regular,Nairobi
+C0563,Regular,Nakuru
+C0564,Loyal,Kiambu
+C0565,Regular,Mombasa
+C0566,Regular,Machakos
+C0567,Regular,Kisumu
+C0568,Regular,Mombasa
+C0569,New,Kisumu
+C0570,Regular,Nakuru
+C0571,Regular,Uasin Gishu
+C0572,Loyal,Machakos
+C0573,Loyal,Mombasa
+C0574,New,Machakos
+C0575,Loyal,Nakuru
+C0576,Loyal,Nairobi
+C0577,Regular,Machakos
+C0578,New,Kisumu
+C0579,New,Uasin Gishu
+C0580,Regular,Uasin Gishu
+C0581,Regular,Nairobi
+C0582,Regular,Mombasa
+C0583,New,Uasin Gishu
+C0584,New,Kisumu
+C0585,New,Nairobi
+C0586,Regular,Nairobi
+C0587,Regular,Kiambu
+C0588,Regular,Mombasa
+C0589,Regular,Nairobi
+C0590,Loyal,Nakuru
+C0591,Loyal,Nairobi
+C0592,Loyal,Uasin Gishu
+C0593,Loyal,Nakuru
+C0594,Loyal,Uasin Gishu
+C0595,Regular,Nakuru
+C0596,Regular,Kiambu
+C0597,Regular,Uasin Gishu
+C0598,Regular,Kisumu
+C0599,Regular,Nairobi
+C0600,Regular,Mombasa
+C0601,Loyal,Nairobi
+C0602,Regular,Nairobi
+C0603,Loyal,Mombasa
+C0604,New,Mombasa
+C0605,New,Nairobi
+C0606,New,Kisumu
+C0607,Regular,Nakuru
+C0608,New,Mombasa
+C0609,Regular,Mombasa
+C0610,Loyal,Nairobi
+C0611,Regular,Nairobi
+C0612,Regular,Mombasa
+C0613,New,Nakuru
+C0614,New,Uasin Gishu
+C0615,Regular,Kiambu
+C0616,New,Uasin Gishu
+C0617,Regular,Uasin Gishu
+C0618,New,Machakos
+C0619,Regular,Mombasa
+C0620,Regular,Kiambu
+C0621,Regular,Machakos
+C0622,Regular,Nakuru
+C0623,Regular,Kiambu
+C0624,Regular,Nairobi
+C0625,Regular,Machakos
+C0626,Regular,Nakuru
+C0627,Regular,Mombasa
+C0628,Regular,Nairobi
+C0629,New,Kiambu
+C0630,Loyal,Nakuru
+C0631,Regular,Kisumu
+C0632,Loyal,Kisumu
+C0633,Regular,Machakos
+C0634,Regular,Kisumu
+C0635,New,Nairobi
+C0636,New,Mombasa
+C0637,Loyal,Mombasa
+C0638,Regular,Uasin Gishu
+C0639,New,Kiambu
+C0640,Regular,Kiambu
+C0641,Regular,Uasin Gishu
+C0642,Regular,Kiambu
+C0643,Loyal,Kisumu
+C0644,Regular,Uasin Gishu
+C0645,Loyal,Nairobi
+C0646,New,Nakuru
+C0647,New,Nakuru
+C0648,New,Nairobi
+C0649,Loyal,Nakuru
+C0650,Regular,Kiambu
+C0651,Regular,Kisumu
+C0652,New,Nakuru
+C0653,Regular,Kisumu
+C0654,Regular,Mombasa
+C0655,Regular,Nairobi
+C0656,Regular,Kisumu
+C0657,Regular,Kiambu
+C0658,Regular,Machakos
+C0659,Loyal,Uasin Gishu
+C0660,Regular,Uasin Gishu
+C0661,Loyal,Uasin Gishu
+C0662,Loyal,Nakuru
+C0663,Regular,Kisumu
+C0664,New,Uasin Gishu
+C0665,New,Kiambu
+C0666,New,Kisumu
+C0667,Regular,Nakuru
+C0668,Regular,Nakuru
+C0669,Regular,Mombasa
+C0670,New,Kisumu
+C0671,Loyal,Nairobi
+C0672,New,Nakuru
+C0673,New,Uasin Gishu
+C0674,Loyal,Uasin Gishu
+C0675,New,Machakos
+C0676,Regular,Nairobi
+C0677,Loyal,Kiambu
+C0678,Regular,Kiambu
+C0679,Regular,Nakuru
+C0680,Regular,Mombasa
+C0681,Loyal,Kisumu
+C0682,Regular,Uasin Gishu
+C0683,Regular,Machakos
+C0684,Regular,Uasin Gishu
+C0685,Regular,Nakuru
+C0686,Regular,Uasin Gishu
+C0687,New,Nairobi
+C0688,Loyal,Uasin Gishu
+C0689,Regular,Nairobi
+C0690,Regular,Machakos
+C0691,Regular,Machakos
+C0692,Regular,Nakuru
+C0693,New,Kisumu
+C0694,New,Kiambu
+C0695,New,Uasin Gishu
+C0696,Regular,Uasin Gishu
+C0697,New,Nakuru
+C0698,Regular,Mombasa
+C0699,Regular,Nairobi
+C0700,Loyal,Mombasa
+C0701,New,Nakuru
+C0702,Loyal,Kisumu
+C0703,Loyal,Nakuru
+C0704,New,Mombasa
+C0705,Loyal,Machakos
+C0706,Regular,Kisumu
+C0707,Regular,Kiambu
+C0708,Regular,Kisumu
+C0709,Regular,Nakuru
+C0710,Regular,Uasin Gishu
+C0711,Regular,Mombasa
+C0712,New,Mombasa
+C0713,New,Kisumu
+C0714,New,Kiambu
+C0715,Regular,Mombasa
+C0716,New,Nakuru
+C0717,Regular,Uasin Gishu
+C0718,Regular,Uasin Gishu
+C0719,Regular,Nakuru
+C0720,Regular,Nairobi
+C0721,Regular,Nairobi
+C0722,Loyal,Nakuru
+C0723,New,Kiambu
+C0724,New,Nairobi
+C0725,Regular,Machakos
+C0726,Loyal,Uasin Gishu
+C0727,New,Nairobi
+C0728,Regular,Kisumu
+C0729,New,Mombasa
+C0730,Regular,Machakos
+C0731,Regular,Nakuru
+C0732,Regular,Kisumu
+C0733,Regular,Mombasa
+C0734,Regular,Nakuru
+C0735,Regular,Nairobi
+C0736,Regular,Mombasa
+C0737,Loyal,Mombasa
+C0738,Regular,Uasin Gishu
+C0739,Regular,Uasin Gishu
+C0740,Regular,Nakuru
+C0741,Loyal,Nairobi
+C0742,New,Kisumu
+C0743,Loyal,Kiambu
+C0744,Regular,Mombasa
+C0745,Regular,Mombasa
+C0746,New,Nairobi
+C0747,Regular,Kiambu
+C0748,Loyal,Nairobi
+C0749,Loyal,Uasin Gishu
+C0750,Regular,Machakos
+C0751,Loyal,Uasin Gishu
+C0752,New,Kisumu
+C0753,Regular,Mombasa
+C0754,Regular,Nairobi
+C0755,Regular,Mombasa
+C0756,Loyal,Machakos
+C0757,Regular,Mombasa
+C0758,Regular,Nairobi
+C0759,New,Kiambu
+C0760,Regular,Kisumu
+C0761,Regular,Kisumu
+C0762,New,Kiambu
+C0763,Regular,Nakuru
+C0764,Regular,Machakos
+C0765,Regular,Nakuru
+C0766,Regular,Uasin Gishu
+C0767,Regular,Machakos
+C0768,New,Nakuru
+C0769,Loyal,Mombasa
+C0770,Regular,Machakos
+C0771,Loyal,Mombasa
+C0772,New,Nairobi
+C0773,New,Uasin Gishu
+C0774,New,Machakos
+C0775,New,Nairobi
+C0776,Loyal,Kiambu
+C0777,Regular,Kiambu
+C0778,Regular,Machakos
+C0779,Regular,Kisumu
+C0780,Regular,Mombasa
+C0781,New,Nakuru
+C0782,Regular,Nairobi
+C0783,Regular,Kiambu
+C0784,Regular,Uasin Gishu
+C0785,Regular,Nakuru
+C0786,New,Nakuru
+C0787,New,Uasin Gishu
+C0788,Regular,Nakuru
+C0789,Regular,Kiambu
+C0790,Regular,Machakos
+C0791,Regular,Machakos
+C0792,New,Uasin Gishu
+C0793,New,Kiambu
+C0794,Regular,Kisumu
+C0795,Regular,Nairobi
+C0796,Loyal,Kisumu
+C0797,New,Machakos
+C0798,Regular,Nairobi
+C0799,Regular,Nakuru
+C0800,Regular,Mombasa
+C0801,Loyal,Nakuru
+C0802,Regular,Mombasa
+C0803,Regular,Kiambu
+C0804,Loyal,Kiambu
+C0805,New,Kiambu
+C0806,Regular,Uasin Gishu
+C0807,Regular,Mombasa
+C0808,Regular,Nakuru
+C0809,New,Nairobi
+C0810,Regular,Kisumu
+C0811,Loyal,Nakuru
+C0812,Loyal,Uasin Gishu
+C0813,Regular,Nairobi
+C0814,New,Kiambu
+C0815,Regular,Nakuru
+C0816,Regular,Machakos
+C0817,New,Nakuru
+C0818,Regular,Nakuru
+C0819,Regular,Uasin Gishu
+C0820,Regular,Kiambu
+C0821,Regular,Mombasa
+C0822,Regular,Nakuru
+C0823,New,Nairobi
+C0824,Loyal,Nakuru
+C0825,New,Kiambu
+C0826,Loyal,Machakos
+C0827,Regular,Mombasa
+C0828,Loyal,Kisumu
+C0829,Regular,Nakuru
+C0830,Regular,Kisumu
+C0831,Loyal,Mombasa
+C0832,Regular,Kisumu
+C0833,Regular,Kisumu
+C0834,Regular,Nakuru
+C0835,Regular,Machakos
+C0836,Regular,Nakuru
+C0837,Regular,Kisumu
+C0838,Loyal,Uasin Gishu
+C0839,Regular,Kiambu
+C0840,Regular,Nakuru
+C0841,Regular,Nakuru
+C0842,Loyal,Mombasa
+C0843,Regular,Machakos
+C0844,Regular,Machakos
+C0845,Regular,Mombasa
+C0846,New,Kisumu
+C0847,New,Mombasa
+C0848,New,Machakos
+C0849,New,Nairobi
+C0850,Regular,Mombasa
+C0851,Regular,Kisumu
+C0852,Regular,Nakuru
+C0853,Regular,Mombasa
+C0854,Regular,Nakuru
+C0855,Regular,Kiambu
+C0856,Regular,Kiambu
+C0857,New,Nairobi
+C0858,Regular,Nairobi
+C0859,New,Nairobi
+C0860,New,Machakos
+C0861,Regular,Uasin Gishu
+C0862,Regular,Nakuru
+C0863,New,Kiambu
+C0864,New,Uasin Gishu
+C0865,Regular,Mombasa
+C0866,Regular,Nakuru
+C0867,New,Uasin Gishu
+C0868,New,Nairobi
+C0869,Regular,Uasin Gishu
+C0870,Regular,Nakuru
+C0871,Loyal,Nairobi
+C0872,Regular,Mombasa
+C0873,Loyal,Nakuru
+C0874,Regular,Kisumu
+C0875,Regular,Kisumu
+C0876,Regular,Uasin Gishu
+C0877,Regular,Kisumu
+C0878,Loyal,Nakuru
+C0879,Regular,Kiambu
+C0880,Loyal,Nairobi
+C0881,Regular,Kisumu
+C0882,Loyal,Nairobi
+C0883,Loyal,Machakos
+C0884,New,Mombasa
+C0885,Regular,Kiambu
+C0886,New,Mombasa
+C0887,Regular,Kisumu
+C0888,Loyal,Uasin Gishu
+C0889,Regular,Kiambu
+C0890,Regular,Mombasa
+C0891,Regular,Mombasa
+C0892,New,Machakos
+C0893,Loyal,Kisumu
+C0894,Regular,Mombasa
+C0895,New,Kiambu
+C0896,Loyal,Nairobi
+C0897,Regular,Machakos
+C0898,Regular,Machakos
+C0899,New,Kiambu
+C0900,New,Kisumu
+C0901,Regular,Nairobi
+C0902,Loyal,Kisumu
+C0903,Regular,Kisumu
+C0904,Loyal,Machakos
+C0905,Loyal,Uasin Gishu
+C0906,Loyal,Machakos
+C0907,Regular,Kiambu
+C0908,Regular,Kiambu
+C0909,Regular,Nairobi
+C0910,Regular,Nairobi
+C0911,New,Nairobi
+C0912,Regular,Uasin Gishu
+C0913,Regular,Mombasa
+C0914,Regular,Machakos
+C0915,Regular,Nairobi
+C0916,Regular,Machakos
+C0917,New,Uasin Gishu
+C0918,New,Nairobi
+C0919,Regular,Nairobi
+C0920,Loyal,Kisumu
+C0921,Loyal,Kisumu
+C0922,Regular,Kisumu
+C0923,New,Nakuru
+C0924,Regular,Nairobi
+C0925,Regular,Nairobi
+C0926,Regular,Uasin Gishu
+C0927,Regular,Machakos
+C0928,Loyal,Mombasa
+C0929,Loyal,Machakos
+C0930,Loyal,Kisumu
+C0931,New,Kisumu
+C0932,New,Nairobi
+C0933,Loyal,Kisumu
+C0934,Regular,Nakuru
+C0935,Regular,Uasin Gishu
+C0936,New,Mombasa
+C0937,Regular,Mombasa
+C0938,Regular,Nakuru
+C0939,Regular,Nairobi
+C0940,New,Mombasa
+C0941,Regular,Uasin Gishu
+C0942,Regular,Machakos
+C0943,Regular,Uasin Gishu
+C0944,Regular,Mombasa
+C0945,Loyal,Machakos
+C0946,Regular,Nakuru
+C0947,New,Kiambu
+C0948,New,Mombasa
+C0949,Regular,Uasin Gishu
+C0950,Loyal,Nairobi
+C0951,New,Uasin Gishu
+C0952,New,Mombasa
+C0953,Regular,Machakos
+C0954,Regular,Nairobi
+C0955,Loyal,Uasin Gishu
+C0956,New,Nairobi
+C0957,Loyal,Uasin Gishu
+C0958,Loyal,Nakuru
+C0959,Regular,Machakos
+C0960,New,Uasin Gishu
+C0961,Regular,Kisumu
+C0962,New,Nairobi
+C0963,Regular,Uasin Gishu
+C0964,Regular,Nakuru
+C0965,New,Nairobi
+C0966,New,Uasin Gishu
+C0967,New,Mombasa
+C0968,Regular,Mombasa
+C0969,Regular,Nairobi
+C0970,Loyal,Kisumu
+C0971,Regular,Mombasa
+C0972,Regular,Nairobi
+C0973,New,Nakuru
+C0974,Regular,Mombasa
+C0975,New,Nairobi
+C0976,Regular,Nakuru
+C0977,Loyal,Nairobi
+C0978,Loyal,Machakos
+C0979,Loyal,Nakuru
+C0980,New,Machakos
+C0981,Regular,Machakos
+C0982,New,Machakos
+C0983,Loyal,Nakuru
+C0984,New,Kisumu
+C0985,New,Kiambu
+C0986,New,Nairobi
+C0987,New,Kiambu
+C0988,New,Kisumu
+C0989,Regular,Nairobi
+C0990,Regular,Mombasa
+C0991,New,Mombasa
+C0992,Regular,Nairobi
+C0993,Loyal,Uasin Gishu
+C0994,New,Nairobi
+C0995,Regular,Kiambu
+C0996,Loyal,Nakuru
+C0997,New,Kiambu
+C0998,New,Kisumu
+C0999,Regular,Nairobi
+C1000,Loyal,Mombasa
