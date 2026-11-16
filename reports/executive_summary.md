@@ -20,6 +20,7 @@ This is a **synthetic training dataset**, not actual company or customer records
 2. **Category mix:** Household was the leading category by net sales. Category-level results are shown in `figures/revenue_by_category.png`.
 3. **Seasonality:** 2025-02 was the strongest month in the simulated year. The monthly trend is shown in `figures/monthly_sales_trend.png`.
 4. **Product focus:** The five highest-revenue products are listed in `stakeholder_summary.xlsx`.
+5. Statistical test: A Welch independent-samples t-test comparing Nairobi and Mombasa transaction values found no statistically significant difference at the 5% significance level (t = -0.4135, p = 0.6793). Nairobi recorded a mean transaction value of KES 684.44, compared with KES 703.80 in Mombasa. This suggests that the observed difference in average transaction values is not statistically significant.
 
 ## Recommendations
 - Review stock availability and replenishment performance for the top revenue categories and products.
